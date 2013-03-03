@@ -1,0 +1,45 @@
+body {
+   color: #000;
+   background-color: rgb(192,192,192);
+   margin: 100px 400px;
+   padding: 0;
+   font-family: 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, 'Hiragino Sans GB', sans-serif;
+  }
+  
+input {
+  display: inline-block;
+  width: 400px;
+  padding: 10px;
+  margin: 0 0 18px;
+  font-size: 20px;
+  font-weight:900;
+  line-height: 18px;
+  background: #e8f4fc;
+  border: 1px solid #0d7bd5;
+  color: #888;
+  cursor: text;
+  box-shadow: 0 1px 0 rgba(255,255,255,.3),0 1px 3px rgba(0,0,0,.3) inset;
+  background-clip: padding-box;
+  border-radius: 5px;
+  
+}
+
+label{
+float: left;
+width: 80px;
+}
+
+h1{
+margin-left: 200px;
+}
+
+#action{
+color: #000;
+margin-left: 250px;
+margin-top: 5px;
+width:100px;
+}
+
+br{
+clear: left;
+}
